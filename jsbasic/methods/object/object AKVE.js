@@ -1,0 +1,1 @@
+const target = {a:1,b:"vp"}
